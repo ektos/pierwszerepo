@@ -17,5 +17,6 @@ public class Testgit {
         // TODO code application logic here
         System.out.println("olaboga");
         System.out.println("commit lokalny1");
+        System.out.println("commit lokalny2");
     }
 }
